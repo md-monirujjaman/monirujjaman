@@ -24,16 +24,22 @@
 ## 🎯 Current Focus
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
-<strong>🔭 Currently Working On</strong><br/>
-Aethera AI Assistant
-</td>
-<td align="center" width="50%">
-<strong>🌱 Currently Learning</strong><br/>
-System Design & AI Integration
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+      <br>
+      <strong>🔭 Currently Working On</strong>
+      <br>
+      <code>Aethera AI</code> - Custom AI Assistant Platform
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+      <br>
+      <strong>🌱 Currently Learning</strong>
+      <br>
+      Advanced System Design & AI/ML Integration
+    </td>
+  </tr>
 </table>
 
 ---
@@ -50,7 +56,7 @@ const monirujjaman = {
   database: ["MongoDB"],
   ai: ["OpenAI API", "Custom AI Assistant"],
 
-  education: "HSC Completed | Future CSE Student (2026)",
+  education: "HSC Completed |  CSE Student 1st Year (2026)",
   currentProject: "Aethera AI Assistant",
 
   funFact: "I debug code faster than I decide what to eat 🍜"
@@ -64,10 +70,15 @@ const monirujjaman = {
 ### ⚡ Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
 </p>
 
 ### ⚙️ Backend & Database
@@ -81,10 +92,20 @@ const monirujjaman = {
 ### 🤖 Tools
 
 <p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
