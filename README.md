@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist%20|%20AI%20Builder&descAlignY=65&descAlign=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Continuous%20Learning%20%20|%20%20Scalable%20Building%20%20|%20%20Constant%20Evolution&descAlignY=58&descAlign=63" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0e75b6&style=flat" />
@@ -207,14 +208,18 @@ It motivates me to build more amazing things!
 
 <div align="center">
 
+### 🚀 *"I don't just build websites; I engineer digital ecosystems where imagination meets pixel-perfect execution."*
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
-✨ Thanks for visiting my profile ✨  
+✨ **Thanks for visiting my profile** ✨  
 
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
-
 
 </div>
