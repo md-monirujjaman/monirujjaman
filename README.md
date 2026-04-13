@@ -214,7 +214,7 @@ It motivates me to build more amazing things!
 ✨ Thanks for visiting my profile ✨  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:8A2BE2&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
 
 
 </div>
