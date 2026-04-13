@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist%20|%20AI%20Builder&descAlignY=71&descAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist%20|%20AI%20Builder&descAlignY=65&descAlign=68" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0e75b6&style=flat" />
@@ -120,10 +120,11 @@ A custom AI assistant designed to automate workflows and provide intelligent res
 
 ## 🎓 Education
 
+* SSC Completed
 * HSC Completed
 * NSDA Certified
 * Youth Development Training
-* Future CSE Student (2026)
+* CSE Student 1st Year(2026)
 
 ---
 
@@ -135,7 +136,7 @@ A custom AI assistant designed to automate workflows and provide intelligent res
 * Remote Jobs
 * Real-world Applications
 
-📩 Contact: [monirujjaman.dev@gmail.com](mailto:monirujjaman.dev@gmail.com)
+📩 Contact: [contac.monirujjaman@gmail.com](mailto:contact.monirujjaman@gmail.com)
 
 ---
 
