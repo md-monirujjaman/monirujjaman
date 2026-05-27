@@ -173,10 +173,7 @@ Continuously strengthening my core engineering skills through Data Structures an
   <img src="https://img.shields.io/badge/VS_Code-0f0c29?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-monirujjaman&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+
 
 <div align="center">
 
